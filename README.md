@@ -11,4 +11,16 @@ hyderabad is a city situvated in india. **It has many historical places like cha
 
 # vacation
 
-In Hyderabad my favourite spots are durgam cheruvu, secendrabad and madhapur. In all this places I used play cricket.
+1. In Hyderabad my favourite spots are durgam cheruvu
+2. secendrabad
+3. madhapur. In all this places I used play cricket.
+
+# food iteams
+ 
+* bread
+* apple
+* barger
+ 
+
+
+
