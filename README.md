@@ -44,6 +44,42 @@ hyderabad is a city situvated in india. **It has many historical places like cha
 
 >Work Hard *_tagore*
 
+----
+
+# Coading Fencing
+
+css syntax example
+
+[css](https://www.w3schools.com/css/tryit.asp?filename=trycss_syntax1)
+
+```
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p {
+  color: red;
+  text-align: center;
+} 
+</style>
+</head>
+<body>
+
+<p>Hello World!</p>
+<p>These paragraphs are styled with CSS.</p>
+
+</body>
+</html>
+
+
+```
+
+
+
+
+
+
+
 
 
 
