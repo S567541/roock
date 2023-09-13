@@ -35,6 +35,18 @@ hyderabad is a city situvated in india. **It has many historical places like cha
  | Hockey | fitness | 7 |
  | Tennis | fitness | 8 |
 
+ ---------
+
+# Qoutes
+
+> Todays children are tomorrows strength
+*-abdul kalam*
+
+>Work Hard *_tagore*
+
+
+
+
 
 
 
